@@ -50,7 +50,9 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="210" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
