@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="center">Hi! My name is Ivan Pietkiewicz and I'm a Software Developer from Argentina</h2>
 
 ###
