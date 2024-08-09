@@ -4,15 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanPz01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanPz01&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=IvanPz01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
@@ -51,8 +43,14 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanPz01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanPz01&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=IvanPz01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img align="right" height="210" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
