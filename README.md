@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,9 +30,21 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=IvanPz01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=IvanPz01.IvanPz01&left_color=black&right_color=purple"  />
 
 ###
 
@@ -52,7 +58,7 @@
 
 ###
 
-<img align="right" height="210" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="210" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=790b7611sl3w2bswo34q87a1nax1kxgyli3npgg4wl9x97g8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
